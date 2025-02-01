@@ -49,8 +49,33 @@ NLPCC2025 Evaluation of Essay On-Topic Graded Comments
 ### 评测数据集
 
 ### 评价标准
-**近似准确率**
-$$ S_{\text{total}} = \frac{1}{N} \sum_{i=1}^{N} S(d_i) $$
+- **近似准确率:**
+
+$$ACC_A = \frac{1}{N} \sum_{i=1}^{N} S(d_i)$$
+
+其中，N为样本数量，
+$$S(d_i) = (1 - \frac{d_i}{4})$$
+，
+$$d_i = \lvert y_i - \hat{y}_i \rvert$$
+，
+$$y_i$$
+为真实标签，
+$$\hat{y}_i$$
+为预测结果。
+
+- **皮尔逊相关系数**
+
+$$r = \frac{\sum (y_i - \bar{y})(\hat{y}_i - \bar{\hat{y}})}{\sqrt{\sum (y_i - \bar{y})^2} \sqrt{\sum (\hat{y}_i - \bar{\hat{y}})^2}}$$
+
+其中，
+$$\bar{y}$$
+为真实标签的均值，
+$$\bar{\hat{y}}$$
+为预测结果的均值。
+
+- **最终得分**
+
+$$Score = 0.5 * ACC_A + 0.5 * (\frac{1+r}{2})$$
 ## 赛道2
 
 ### 任务描述
