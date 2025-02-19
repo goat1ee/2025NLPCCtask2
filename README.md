@@ -57,6 +57,7 @@ NLPCC2025 Evaluation of Essay On-Topic Graded Comments
         }
     }
 ]
+```
 ### 评测数据集
 
 ### 评价标准
@@ -110,6 +111,7 @@ $$Score = 0.5 * ACC_A + 0.5 * (\frac{1+r}{2})$$
         }
     }
 ]
+```
 ### 评测数据集
 
 ### 评价标准
