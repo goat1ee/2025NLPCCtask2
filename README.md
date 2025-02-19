@@ -69,6 +69,39 @@ NLPCC2025 Evaluation of Essay On-Topic Graded Comments
 ```
 ### 评测数据集
 
+<table align="center">
+  <tr>
+    <th align="center">年级</th>
+    <th align="center">3</th>
+    <th align="center">4</th>
+    <th align="center">5</th>
+    <th align="center">6</th>
+    <th align="center">7</th>
+    <th align="center">8</th>
+    <th align="center">9</th>
+  </tr>
+  <tr>
+    <td align="center">标题数量</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">2</td>
+    <td align="center">1</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center">作文数量</td>
+    <td align="center">10</td>
+    <td align="center">10</td>
+    <td align="center">10</td>
+    <td align="center">10</td>
+    <td align="center">20/26</td>
+    <td align="center">25</td>
+    <td align="center">32/30</td>
+  </tr>
+</table>
+
 ### 评价标准
 - **近似准确率:**
 
@@ -132,6 +165,48 @@ $$Score = 0.5 * ACC_A + 0.5 * (\frac{1+r}{2})$$
 ```
 ### 评测数据集
 
+<table align="center">
+  <tr>
+    <th align="center">年级</th>
+    <th align="center">3</th>
+    <th align="center">4</th>
+    <th align="center">5</th>
+    <th align="center">6</th>
+    <th align="center">7</th>
+    <th align="center">8</th>
+    <th align="center">9</th>
+  </tr>
+  <tr>
+    <td align="center">标题数量</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">2</td>
+    <td align="center">1</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center">作文数量</td>
+    <td align="center">10</td>
+    <td align="center">10</td>
+    <td align="center">10</td>
+    <td align="center">10</td>
+    <td align="center">20/26</td>
+    <td align="center">25</td>
+    <td align="center">32/30</td>
+  </tr>
+</table>
+
 ### 评价标准
+- **PPLscore:**
 
+$$PPL = \exp\left(-\frac{1}{N}\sum_{i = 1}^{N} \log P(w_i|w_1, w_2, \ldots, w_{i - 1})\right)$$
 
+- **Bertscore**
+
+- **human**
+
+- **最终得分**
+
+$$Score = 0.25 * \frac{\frac{1}{PPLscore} - \frac{1}{40}}{1 - \frac{1}{40}} + 0.25 * Bertscore + 0.5 * \frac{human}{100}$$
