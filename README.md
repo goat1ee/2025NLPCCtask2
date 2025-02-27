@@ -7,7 +7,7 @@ Dong Haoxiang(East China Normal University, hx_dong@stu.ecnu.edu.cn)
 ## News
 
 ## Guideline
-[guideline](https://github.com/cubenlp/EOTGC-2025NLPCC/blob/8f2acad5c5eef4c72fa5fa8097bb0fca8a885f35/Task%20Guideline.md)
+[guideline](https://github.com/cubenlp/EOTGC-2025NLPCC/blob/main/Task%20Guideline.md)
 ## Track1
 **Relevance scoring of essays.** Assess whether the essay aligns with the given topic, providing classification results and predicted scores. The classification results include "Excellent," "Good," "Average," "Pass," and "Fail."
 ## Track2
