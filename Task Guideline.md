@@ -228,6 +228,7 @@ For PPLscore, we use the baichuan-7b-chat model for calculation.
 - **Bertscore**
 
 - **human**
+
 In this evaluation process, experts in primary and secondary school essay writing to manually score a fixed selection of essays from each grade at a 1:10 ratio, with the average score serving as the human score.
 - **Final Score**
 
