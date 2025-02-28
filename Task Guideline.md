@@ -11,7 +11,7 @@ With the widespread application of natural language processing (NLP) technology 
 
 This evaluation task focuses on primary and secondary school students' essays, with an emphasis on relevance evaluation and the generation of comments based on relevance analysis. Specifically, the task will involve multi-dimensional scoring of whether the essay closely adheres to the topic, including dimensions such as the accuracy of topic comprehension, the relevance and completeness of the content, and the automatic generation of appropriate comments based on relevance analysis to assist teachers in essay evaluation and instructional guidance. This research endeavor aims to establish a unified standard for relevance evaluation and provide technical support for automated essay scoring and teaching.
 ## Test data samples
-
+[testdata_samples.json](https://github.com/cubenlp/EOTGC-2025NLPCC/blob/main/data/testdata_samples.json)
 ## Track 1
 
 ### Task Description
