@@ -13,6 +13,8 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 |:-------:|:-------:|
 | 1 | ZZU-NLP  |
 | 2 | Cloud Lab  |
+| 3 | liberty  |
+
 # News
 | Date | News |
 |:-------:|:-------|
