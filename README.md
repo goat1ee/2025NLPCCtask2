@@ -11,9 +11,10 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 
 | ID | Team Name |
 |:-------:|:-------:|
-| 1 | ZZU-NLP  |
-| 2 | Cloud Lab  |
-| 3 | liberty  |
+| 1 | ZZU-NLP |
+| 2 | Cloud Lab |
+| 3 | liberty |
+| 4 | ZZUNLP_Han |
 
 # News
 | Date | News |
