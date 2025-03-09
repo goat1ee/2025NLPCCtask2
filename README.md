@@ -15,6 +15,8 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 | 2 | Cloud Lab |
 | 3 | liberty |
 | 4 | ZZUNLP_Han |
+| 5 | Fighting! |
+| 6 | 西西恩优NLP |
 
 # News
 | Date | News |
