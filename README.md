@@ -18,6 +18,7 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 | 5 | Fighting! |
 | 6 | 西西恩优NLP |
 | 7 | TW-NLP |
+| 8 | YouTuLab_Jarvis |
 
 # News
 | Date | News |
