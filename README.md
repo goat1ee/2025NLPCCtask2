@@ -17,6 +17,7 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 | 4 | ZZUNLP_Han |
 | 5 | Fighting! |
 | 6 | 西西恩优NLP |
+| 7 | TW-NLP |
 
 # News
 | Date | News |
