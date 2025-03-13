@@ -10,15 +10,15 @@ Essay writing is a crucial component of middle school Chinese education, serving
 With the widespread application of natural language processing (NLP) technology in the field of education, an increasing number of automated essay analysis tools are being used to support writing instruction and assessment. Some early studies focused on identifying the central idea from the entire text of essays, while others attempted to analyze the paragraph structure and logical coherence of essays. However, there remains significant research potential in accurately evaluating essay relevance through automated methods. Relevance not only requires considering the content connection between the essay and the topic but also analyzing whether the language expression clearly revolves around the topic. Therefore, it is necessary to define more refined relevance evaluation criteria and analyze the relevance between the essay and the topic by combining semantic information at the sentence and paragraph levels.
 
 This evaluation task focuses on primary and secondary school students' essays, with an emphasis on relevance evaluation and the generation of comments based on relevance analysis. Specifically, the task will involve multi-dimensional scoring of whether the essay closely adheres to the topic, including dimensions such as the accuracy of topic comprehension, the relevance and completeness of the content, and the automatic generation of appropriate comments based on relevance analysis to assist teachers in essay evaluation and instructional guidance. This research endeavor aims to establish a unified standard for relevance evaluation and provide technical support for automated essay scoring and teaching.
-## Test data samples
-[testdata_samples.json](https://github.com/cubenlp/EOTGC-2025NLPCC/blob/main/data/testdata_samples.json)
+## Data samples
+[samples.json](https://github.com/cubenlp/EOTGC-2025NLPCC/blob/main/data/samples.json)
 ## Track 1
 
 ### Task Description
-**Relevance scoring of essays.**  Assess whether the essay aligns with the given topic, providing classification results and predicted scores. The classification results include "Excellent," "Good," "Average," "Pass," and "Fail."
+**Relevance scoring of essays.**  Assess whether the essay aligns with the given topic, providing classification results and predicted scores. The classification results include "Excellent," "Good," "Average," "Qualified," and "Unqualified."
 
 ### Task Definition
-Essay relevance scoring is regarded as a multi-classification problem, with the core task being to evaluate the relevance of an essay, predict its relevance category, and generate corresponding scores. This evaluation task defines five relevance categories: "Excellent," "Good," "Average," "Pass," and "Fail." Specific category definitions and scoring criteria are provided in the table below.
+Essay relevance scoring is regarded as a multi-classification problem, with the core task being to evaluate the relevance of an essay, predict its relevance category, and generate corresponding scores. This evaluation task defines five relevance categories: "Excellent," "Good," "Average," "Qualified," and "Unqualified." Specific category definitions and scoring criteria are provided in the table below.
 <table align="center">
   <tr>
     <th width="20%" align="center">Relevance Level</th>
