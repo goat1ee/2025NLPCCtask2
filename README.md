@@ -20,6 +20,10 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 | 7 | TW-NLP |
 | 8 | YouTuLab_Jarvis |
 | 9 | YNU-HPCC |
+| 10 | CGCL-NLP |
+| 11 | shmtuCFL |
+| 12 | HIT_416 |
+| 13 | CCNU NLP |
 
 # News
 | Date | News |
