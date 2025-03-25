@@ -26,6 +26,7 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 | 13 | CCNU NLP |
 | 14 | DUFL2025 |
 | 15 | zzunlp |
+| 16 | NP-ESSAY |
 
 # News
 | Date | News |
