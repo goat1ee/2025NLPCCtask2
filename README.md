@@ -24,6 +24,8 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 | 11 | shmtuCFL |
 | 12 | HIT_416 |
 | 13 | CCNU NLP |
+| 14 | DUFL2025 |
+| 15 | zzunlp |
 
 # News
 | Date | News |
