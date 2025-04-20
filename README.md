@@ -138,4 +138,4 @@
 
 *   本项目实现中使用了大型语言模型 API 服务 (`deepseek-chat`, `qwen-max`)。
 *   使用了 Hugging Face Transformers 库及 `bert-base-chinese` 预训练模型。
-*   感谢 **NLPCC 2025 EOTGC (DUFL2025)** 任务组织方 (CubeNLP, East China Normal University) 提供评测平台、数据和任务指南。
+*   感谢 **NLPCC 2025** 任务组织方 (CubeNLP, East China Normal University) 提供评测平台、数据和任务指南。
