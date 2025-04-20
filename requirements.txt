@@ -1,0 +1,18 @@
+# requirements.txt for DUFL2025 Project
+
+# Core ML/NLP libraries
+torch==2.6.0+cu126
+transformers==4.50.3
+scikit-learn==1.6.1 # Note: Imported as sklearn, package name is scikit-learn
+
+# Utility libraries
+numpy==2.1.2
+requests==2.32.3
+tqdm==4.67.1
+
+# --- Notes ---
+# Python Version: 3.10.0 (conda-forge) on Windows 10
+# The +cu126 in the torch version indicates it was built for CUDA 12.6.
+# Installation might require specifying appropriate PyTorch index URLs if not using conda,
+# or conda install pytorch torchvision torchaudio pytorch-cuda=12.6 -c pytorch -c nvidia
+# Standard libraries (os, json, time, random, re, logging, etc.) are not listed.
