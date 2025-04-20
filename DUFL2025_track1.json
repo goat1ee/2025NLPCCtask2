@@ -1,0 +1,742 @@
+[
+  {
+    "id": 0,
+    "classification": "优秀"
+  },
+  {
+    "id": 1,
+    "classification": "较好"
+  },
+  {
+    "id": 2,
+    "classification": "较好"
+  },
+  {
+    "id": 3,
+    "classification": "优秀"
+  },
+  {
+    "id": 4,
+    "classification": "优秀"
+  },
+  {
+    "id": 5,
+    "classification": "较好"
+  },
+  {
+    "id": 6,
+    "classification": "优秀"
+  },
+  {
+    "id": 7,
+    "classification": "优秀"
+  },
+  {
+    "id": 8,
+    "classification": "优秀"
+  },
+  {
+    "id": 9,
+    "classification": "优秀"
+  },
+  {
+    "id": 10,
+    "classification": "一般"
+  },
+  {
+    "id": 11,
+    "classification": "优秀"
+  },
+  {
+    "id": 12,
+    "classification": "优秀"
+  },
+  {
+    "id": 13,
+    "classification": "不合格"
+  },
+  {
+    "id": 14,
+    "classification": "优秀"
+  },
+  {
+    "id": 15,
+    "classification": "较好"
+  },
+  {
+    "id": 16,
+    "classification": "较好"
+  },
+  {
+    "id": 17,
+    "classification": "优秀"
+  },
+  {
+    "id": 18,
+    "classification": "优秀"
+  },
+  {
+    "id": 19,
+    "classification": "优秀"
+  },
+  {
+    "id": 20,
+    "classification": "优秀"
+  },
+  {
+    "id": 21,
+    "classification": "优秀"
+  },
+  {
+    "id": 22,
+    "classification": "较好"
+  },
+  {
+    "id": 23,
+    "classification": "优秀"
+  },
+  {
+    "id": 24,
+    "classification": "优秀"
+  },
+  {
+    "id": 25,
+    "classification": "优秀"
+  },
+  {
+    "id": 26,
+    "classification": "优秀"
+  },
+  {
+    "id": 27,
+    "classification": "优秀"
+  },
+  {
+    "id": 28,
+    "classification": "较好"
+  },
+  {
+    "id": 29,
+    "classification": "优秀"
+  },
+  {
+    "id": 30,
+    "classification": "一般"
+  },
+  {
+    "id": 31,
+    "classification": "优秀"
+  },
+  {
+    "id": 32,
+    "classification": "较好"
+  },
+  {
+    "id": 33,
+    "classification": "优秀"
+  },
+  {
+    "id": 34,
+    "classification": "优秀"
+  },
+  {
+    "id": 35,
+    "classification": "优秀"
+  },
+  {
+    "id": 36,
+    "classification": "优秀"
+  },
+  {
+    "id": 37,
+    "classification": "一般"
+  },
+  {
+    "id": 38,
+    "classification": "优秀"
+  },
+  {
+    "id": 39,
+    "classification": "较好"
+  },
+  {
+    "id": 40,
+    "classification": "优秀"
+  },
+  {
+    "id": 41,
+    "classification": "优秀"
+  },
+  {
+    "id": 42,
+    "classification": "优秀"
+  },
+  {
+    "id": 43,
+    "classification": "优秀"
+  },
+  {
+    "id": 44,
+    "classification": "较好"
+  },
+  {
+    "id": 45,
+    "classification": "较好"
+  },
+  {
+    "id": 46,
+    "classification": "不合格"
+  },
+  {
+    "id": 47,
+    "classification": "一般"
+  },
+  {
+    "id": 48,
+    "classification": "一般"
+  },
+  {
+    "id": 49,
+    "classification": "优秀"
+  },
+  {
+    "id": 50,
+    "classification": "优秀"
+  },
+  {
+    "id": 51,
+    "classification": "一般"
+  },
+  {
+    "id": 52,
+    "classification": "不合格"
+  },
+  {
+    "id": 53,
+    "classification": "优秀"
+  },
+  {
+    "id": 54,
+    "classification": "优秀"
+  },
+  {
+    "id": 55,
+    "classification": "优秀"
+  },
+  {
+    "id": 56,
+    "classification": "优秀"
+  },
+  {
+    "id": 57,
+    "classification": "优秀"
+  },
+  {
+    "id": 58,
+    "classification": "较好"
+  },
+  {
+    "id": 59,
+    "classification": "优秀"
+  },
+  {
+    "id": 60,
+    "classification": "较好"
+  },
+  {
+    "id": 61,
+    "classification": "较好"
+  },
+  {
+    "id": 62,
+    "classification": "较好"
+  },
+  {
+    "id": 63,
+    "classification": "一般"
+  },
+  {
+    "id": 64,
+    "classification": "较好"
+  },
+  {
+    "id": 65,
+    "classification": "一般"
+  },
+  {
+    "id": 66,
+    "classification": "优秀"
+  },
+  {
+    "id": 67,
+    "classification": "一般"
+  },
+  {
+    "id": 68,
+    "classification": "优秀"
+  },
+  {
+    "id": 69,
+    "classification": "优秀"
+  },
+  {
+    "id": 70,
+    "classification": "优秀"
+  },
+  {
+    "id": 71,
+    "classification": "优秀"
+  },
+  {
+    "id": 72,
+    "classification": "优秀"
+  },
+  {
+    "id": 73,
+    "classification": "优秀"
+  },
+  {
+    "id": 74,
+    "classification": "较好"
+  },
+  {
+    "id": 75,
+    "classification": "优秀"
+  },
+  {
+    "id": 76,
+    "classification": "一般"
+  },
+  {
+    "id": 77,
+    "classification": "较好"
+  },
+  {
+    "id": 78,
+    "classification": "一般"
+  },
+  {
+    "id": 79,
+    "classification": "优秀"
+  },
+  {
+    "id": 80,
+    "classification": "优秀"
+  },
+  {
+    "id": 81,
+    "classification": "优秀"
+  },
+  {
+    "id": 82,
+    "classification": "优秀"
+  },
+  {
+    "id": 83,
+    "classification": "较好"
+  },
+  {
+    "id": 84,
+    "classification": "优秀"
+  },
+  {
+    "id": 85,
+    "classification": "优秀"
+  },
+  {
+    "id": 86,
+    "classification": "优秀"
+  },
+  {
+    "id": 87,
+    "classification": "优秀"
+  },
+  {
+    "id": 88,
+    "classification": "优秀"
+  },
+  {
+    "id": 89,
+    "classification": "优秀"
+  },
+  {
+    "id": 90,
+    "classification": "优秀"
+  },
+  {
+    "id": 91,
+    "classification": "优秀"
+  },
+  {
+    "id": 92,
+    "classification": "优秀"
+  },
+  {
+    "id": 93,
+    "classification": "较好"
+  },
+  {
+    "id": 94,
+    "classification": "优秀"
+  },
+  {
+    "id": 95,
+    "classification": "优秀"
+  },
+  {
+    "id": 96,
+    "classification": "优秀"
+  },
+  {
+    "id": 97,
+    "classification": "优秀"
+  },
+  {
+    "id": 98,
+    "classification": "优秀"
+  },
+  {
+    "id": 99,
+    "classification": "优秀"
+  },
+  {
+    "id": 100,
+    "classification": "优秀"
+  },
+  {
+    "id": 101,
+    "classification": "优秀"
+  },
+  {
+    "id": 102,
+    "classification": "优秀"
+  },
+  {
+    "id": 103,
+    "classification": "优秀"
+  },
+  {
+    "id": 104,
+    "classification": "优秀"
+  },
+  {
+    "id": 105,
+    "classification": "优秀"
+  },
+  {
+    "id": 106,
+    "classification": "优秀"
+  },
+  {
+    "id": 107,
+    "classification": "较好"
+  },
+  {
+    "id": 108,
+    "classification": "一般"
+  },
+  {
+    "id": 109,
+    "classification": "优秀"
+  },
+  {
+    "id": 110,
+    "classification": "优秀"
+  },
+  {
+    "id": 111,
+    "classification": "较好"
+  },
+  {
+    "id": 112,
+    "classification": "优秀"
+  },
+  {
+    "id": 113,
+    "classification": "较好"
+  },
+  {
+    "id": 114,
+    "classification": "较好"
+  },
+  {
+    "id": 115,
+    "classification": "优秀"
+  },
+  {
+    "id": 116,
+    "classification": "优秀"
+  },
+  {
+    "id": 117,
+    "classification": "优秀"
+  },
+  {
+    "id": 118,
+    "classification": "较好"
+  },
+  {
+    "id": 119,
+    "classification": "较好"
+  },
+  {
+    "id": 120,
+    "classification": "较好"
+  },
+  {
+    "id": 121,
+    "classification": "较好"
+  },
+  {
+    "id": 122,
+    "classification": "优秀"
+  },
+  {
+    "id": 123,
+    "classification": "优秀"
+  },
+  {
+    "id": 124,
+    "classification": "优秀"
+  },
+  {
+    "id": 125,
+    "classification": "优秀"
+  },
+  {
+    "id": 126,
+    "classification": "优秀"
+  },
+  {
+    "id": 127,
+    "classification": "优秀"
+  },
+  {
+    "id": 128,
+    "classification": "优秀"
+  },
+  {
+    "id": 129,
+    "classification": "优秀"
+  },
+  {
+    "id": 130,
+    "classification": "优秀"
+  },
+  {
+    "id": 131,
+    "classification": "较好"
+  },
+  {
+    "id": 132,
+    "classification": "较好"
+  },
+  {
+    "id": 133,
+    "classification": "优秀"
+  },
+  {
+    "id": 134,
+    "classification": "优秀"
+  },
+  {
+    "id": 135,
+    "classification": "优秀"
+  },
+  {
+    "id": 136,
+    "classification": "优秀"
+  },
+  {
+    "id": 137,
+    "classification": "优秀"
+  },
+  {
+    "id": 138,
+    "classification": "优秀"
+  },
+  {
+    "id": 139,
+    "classification": "优秀"
+  },
+  {
+    "id": 140,
+    "classification": "优秀"
+  },
+  {
+    "id": 141,
+    "classification": "优秀"
+  },
+  {
+    "id": 142,
+    "classification": "优秀"
+  },
+  {
+    "id": 143,
+    "classification": "较好"
+  },
+  {
+    "id": 144,
+    "classification": "优秀"
+  },
+  {
+    "id": 145,
+    "classification": "优秀"
+  },
+  {
+    "id": 146,
+    "classification": "优秀"
+  },
+  {
+    "id": 147,
+    "classification": "优秀"
+  },
+  {
+    "id": 148,
+    "classification": "优秀"
+  },
+  {
+    "id": 149,
+    "classification": "优秀"
+  },
+  {
+    "id": 150,
+    "classification": "优秀"
+  },
+  {
+    "id": 151,
+    "classification": "优秀"
+  },
+  {
+    "id": 152,
+    "classification": "合格"
+  },
+  {
+    "id": 153,
+    "classification": "优秀"
+  },
+  {
+    "id": 154,
+    "classification": "较好"
+  },
+  {
+    "id": 155,
+    "classification": "优秀"
+  },
+  {
+    "id": 156,
+    "classification": "优秀"
+  },
+  {
+    "id": 157,
+    "classification": "优秀"
+  },
+  {
+    "id": 158,
+    "classification": "优秀"
+  },
+  {
+    "id": 159,
+    "classification": "优秀"
+  },
+  {
+    "id": 160,
+    "classification": "优秀"
+  },
+  {
+    "id": 161,
+    "classification": "优秀"
+  },
+  {
+    "id": 162,
+    "classification": "优秀"
+  },
+  {
+    "id": 163,
+    "classification": "优秀"
+  },
+  {
+    "id": 164,
+    "classification": "优秀"
+  },
+  {
+    "id": 165,
+    "classification": "优秀"
+  },
+  {
+    "id": 166,
+    "classification": "优秀"
+  },
+  {
+    "id": 167,
+    "classification": "优秀"
+  },
+  {
+    "id": 168,
+    "classification": "优秀"
+  },
+  {
+    "id": 169,
+    "classification": "优秀"
+  },
+  {
+    "id": 170,
+    "classification": "优秀"
+  },
+  {
+    "id": 171,
+    "classification": "优秀"
+  },
+  {
+    "id": 172,
+    "classification": "优秀"
+  },
+  {
+    "id": 173,
+    "classification": "优秀"
+  },
+  {
+    "id": 174,
+    "classification": "优秀"
+  },
+  {
+    "id": 175,
+    "classification": "优秀"
+  },
+  {
+    "id": 176,
+    "classification": "优秀"
+  },
+  {
+    "id": 177,
+    "classification": "优秀"
+  },
+  {
+    "id": 178,
+    "classification": "优秀"
+  },
+  {
+    "id": 179,
+    "classification": "优秀"
+  },
+  {
+    "id": 180,
+    "classification": "优秀"
+  },
+  {
+    "id": 181,
+    "classification": "优秀"
+  },
+  {
+    "id": 182,
+    "classification": "优秀"
+  },
+  {
+    "id": 183,
+    "classification": "优秀"
+  },
+  {
+    "id": 184,
+    "classification": "优秀"
+  }
+]
